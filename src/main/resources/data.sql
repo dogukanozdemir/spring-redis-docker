@@ -1,0 +1,13 @@
+INSERT INTO player (id,name, age, country, team, ranking) VALUES (1,'Alice', 25, 'USA', 'Red Team', 10);
+INSERT INTO player (id,name, age, country, team, ranking) VALUES (2,'Bob', 30, 'Canada', 'Blue Team', 5);
+INSERT INTO player (id,name, age, country, team, ranking) VALUES (3,'Charlie', 22, 'UK', 'Green Team', 8);
+INSERT INTO player (id,name, age, country, team, ranking) VALUES (4,'David', 28, 'Australia', 'Yellow Team', 12);
+INSERT INTO player (id,name, age, country, team, ranking) VALUES (5,'Eva', 24, 'France', 'Purple Team', 6);
+INSERT INTO player (id,name, age, country, team, ranking) VALUES (6,'Frank', 29, 'Germany', 'Orange Team', 9);
+INSERT INTO player (id,name, age, country, team, ranking) VALUES (7,'Grace', 27, 'Italy', 'Black Team', 7);
+INSERT INTO player (id,name, age, country, team, ranking) VALUES (8,'Henry', 26, 'Spain', 'White Team', 11);
+INSERT INTO player (id,name, age, country, team, ranking) VALUES (9,'Ivy', 23, 'Brazil', 'Pink Team', 4);
+INSERT INTO player (id,name, age, country, team, ranking) VALUES (10,'Jack', 31, 'Argentina', 'Silver Team', 3);
+INSERT INTO player (id,name, age, country, team, ranking) VALUES (11,'Kate', 21, 'Japan', 'Gold Team', 2);
+INSERT INTO player (id,name, age, country, team, ranking) VALUES (12,'Liam', 33, 'South Korea', 'Cyan Team', 1);
+INSERT INTO player (id,name, age, country, team, ranking) VALUES (13,'Mia', 20, 'Russia', 'Indigo Team', 13);
