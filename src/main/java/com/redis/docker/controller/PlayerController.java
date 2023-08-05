@@ -1,6 +1,7 @@
 package com.redis.docker.controller;
 
 import com.redis.docker.dto.PlayerDto;
+import com.redis.docker.entity.Player;
 import com.redis.docker.service.PlayerService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

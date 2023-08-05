@@ -1,7 +1,8 @@
 package com.redis.docker.dto;
 
-
 import lombok.Builder;
+import org.springframework.data.redis.core.RedisHash;
+import org.springframework.data.redis.core.TimeToLive;
 
 import java.io.Serializable;
 
